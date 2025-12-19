@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "ol-proxy": {
+      "url": "http://127.0.0.1:3333/sse",
+      "timeout": 30000,
+      "trust": false
+    }
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "ui": {
+    "theme": "Dracula"
+  }
+}
